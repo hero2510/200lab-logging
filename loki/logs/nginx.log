@@ -6,3 +6,4 @@
 10.0.0.5 - - [2024-05-09T11:59:18Z] "HEAD /favicon.ico HTTP/1.1" 200 0 "-" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" "-"
 10.0.0.5 - - [2024-05-09T11:59:18Z] "HEAD /favicon.ico HTTP/1.1" 200 0 "-" "Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" "-"
 79.139.188.5 - - [2024-05-09T11:59:18Z] "GET / HTTP/2.0" 200 5316 "https://example.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" "-"
+79.139.188.5 - - [2024-05-09T11:59:18Z] "GET / HTTP/2.0" 200 5316 "https://example.com/" "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36" "-"
